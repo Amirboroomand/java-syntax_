@@ -24,3 +24,7 @@ The main Method
 The main() method is required and you will see it in every Java program:
 
 public static void main(String[] args)
+
+Any code inside the main() method will be executed. Don't worry about the keywords before and after main. You will get to know them bit by bit while reading this tutorial.
+
+For now, just remember that every Java program has a class name which must match the filename, and that every program must contain the main() method.
