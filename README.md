@@ -42,3 +42,17 @@ System is a built-in Java class that contains useful members, such as out, which
 Don't worry too much about System, out and println(). Just know that you need them together to print stuff to the screen.
 
 You should also note that each code statement must end with a semicolon (;).
+
+
+Exercises
+Exercise:
+Insert the missing part of the code below to output "Hello World".
+
+public class MyClass {
+  public static void main(String[] args) {
+    
+.
+.
+("Hello World");
+  }
+}
